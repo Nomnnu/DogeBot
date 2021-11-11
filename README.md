@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot
+## MAK DESIGNS 
 
 </div>
 
@@ -67,19 +67,4 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦄 scan qr code within 15seconds
 ```
 
-## Connect With Me
-My Personal Chat👇
-<p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
 
-My Whatsapp Group👇
-<p align="center">
- <a href="https://chat.whatsapp.com/FpE1TXXUzuk0TASzYwX8ZM"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
-
-# Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
